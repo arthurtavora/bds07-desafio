@@ -1,0 +1,51 @@
+.home-container {
+  background-color: #e5e5e5;
+  padding: 10px;
+  font-size: 22px;
+  text-align: center;
+  border: 2px solid red;
+}
+
+.home-container h1 {
+  font-size: 1em;
+  color: #ffffff;
+}
+
+.home-container p {
+  font-size: 0.64em;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+}
+
+.superior-home-card {
+  display: flex;
+  flex-direction: column-reverse;
+  border: 2px solid purple;
+  background-color: #00285f;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.home-content-container {
+  border: 2px solid blue;
+  padding: 10px;
+}
+
+.home-content-container p {
+  padding: 13px 20px 25px 20px;
+}
+
+.home-image-container {
+  padding: 62px 28px 35px 28px;
+  border: 2px solid green;
+}
+
+.home-image-container svg {
+  width: 100%;
+  height: auto;
+}
+
+.inferior-home-card {
+    padding: 30px 63px 55px;
+}

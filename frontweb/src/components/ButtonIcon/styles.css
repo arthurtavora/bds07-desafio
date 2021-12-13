@@ -1,0 +1,10 @@
+.btn-icon {
+    width: 174px;
+    height: 40px;
+    background-color: #00285f;
+}
+
+.btn-icon p {
+    text-align: center;
+    font-size: 0.90em;
+}
